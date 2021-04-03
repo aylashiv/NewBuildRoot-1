@@ -1,0 +1,27 @@
+This is the Master link were the entire process is followed Send by Rakesh
+
+https://embedjournal.com/kernel-compilation-beaglebone-black/
+
+
+Links Followed
+
+https://www.codetd.com/en/article/9846964
+
+Basically the error Encountered is Mkimage not found for that above link Works
+For Mkimage Error, there was other issue that is logging as root, since in root was unable to resolve but switching to user
+mode, had succeeded in results.
+
+
+And lzop not found Done.. with sudo apt-get install lzop
+
+https://github.com/RobertBerger/yocto-autobuilder/issues/1
+
+There is no Key need to be pressed from Keyboard, and shall be Autobooted.
+
+
+default Login is root
+and there is no password
+
+https://embedjournal.com/kernel-compilation-beaglebone-black
+
+
